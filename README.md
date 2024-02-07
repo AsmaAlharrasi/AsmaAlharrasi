@@ -31,17 +31,17 @@
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)<br/>
  
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AsmaAlharrasi&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AsmaAlharrasi&theme=gruvbox&hide_border=true)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AsmaAlharrasi&theme=gruvbox&hide_border=true) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaAlharrasi&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 😂 Programmer Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300 px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 100 px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AsmaAlharrasi&icon=2&color=8)](https://visitcount.itsvg.in)
