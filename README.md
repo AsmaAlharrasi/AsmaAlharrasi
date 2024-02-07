@@ -28,8 +28,7 @@
 
 ## 💻 Programming Languages:
 
-  <img src = 'https://github.com/123usef/123usef/blob/main/images/html.svg' width='30'/>   <img src = 'https://github.com/123usef/123usef/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/javaScript.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/php.svg' width='40'/>
- <img src = 'https://github.com/123usef/123usef/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/c--4.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/NET_Core_Logo.svg' width='30'/>
+  <img src = 'https://github.com/123usef/123usef/blob/main/images/html.svg' width='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/javascript.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/php.svg' width='40'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/c--4.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/NET_Core_Logo.svg' width='30'/> <img src = 'https://img.shields.io/badge/react.svg' width='30'/>
  
 
 
