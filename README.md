@@ -17,8 +17,8 @@
 ▪Ask me about my Experience with JS , C# , .Net, Asp. net, React and Angular.<br>
 ▪Check out my GitHub Repos to see some of the projects I've worked on.<br>
 
-## 📑 My Resume
-Check out [my Resume](https://drive.google.com/file/d/10U9GnPE-KsxpPMUUO5Fj0eAAy5qPQjEU/view?usp=sharing&style=flat-square&logo=Gmail&logoColor=white)
+## 📑 My Info
+Check out [my Resume](https://drive.google.com/file/d/10U9GnPE-KsxpPMUUO5Fj0eAAy5qPQjEU/view?usp=sharing)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-alharassi-71a955251/) ![Gmail Badge](https://img.shields.io/badge/-asmaalharrasi18-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asmaalharrasi18@gmail.com) [![Profile Views](https://visitcount.itsvg.in/api?id=AsmaAlharrasi&icon=2&color=8)](https://visitcount.itsvg.in)
 
