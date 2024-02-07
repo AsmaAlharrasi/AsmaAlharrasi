@@ -23,8 +23,6 @@ Check out [my Resume](https://drive.google.com/file/d/10U9GnPE-KsxpPMUUO5Fj0eAAy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-alharassi-71a955251/)<br/> ![Gmail Badge](https://img.shields.io/badge/-asmaalharrasi18-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asmaalharrasi18@gmail.com)<br/>
 [![Profile Views](https://visitcount.itsvg.in/api?id=AsmaAlharrasi&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<br/>
-
 ## 💻Technologies I Use:
 <img src = 'https://github.com/123usef/123usef/blob/main/images/NET_Core_Logo.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/bootstrap.svg' width='33'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' width='30'/>  <img src='https://angular.io/assets/images/logos/angular/angular.svg' width='30'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' width='30'/>
 
