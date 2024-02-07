@@ -12,7 +12,7 @@
 </p> 
 
 # 💫 About Me:
-▪I'm a Full Stack Developer, I'm into Front-End development<br>
+▪I'm a Full Stack Developer, I'm most into Front-End development<br>
 ▪As a CS student, I'm constantly learning and exploring new technologies to improve my skills.<br>
 ▪Ask me about my Experience with JS , C# , .Net, Asp. net, React and Angular.<br>
 ▪Check out my GitHub Repos to see some of the projects I've worked on.<br>
