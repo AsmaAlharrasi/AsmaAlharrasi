@@ -17,7 +17,10 @@
 ▪Ask me about my Experience with JS , C# , .Net, Asp. net, React and Angular.<br>
 ▪Check out my GitHub Repos to see some of the projects I've worked on.<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-alharassi-71a955251/) ![Gmail Badge](https://img.shields.io/badge/-asmaalharrasi18-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asmaalharrasi18@gmail.com)[![Profile Views](https://visitcount.itsvg.in/api?id=AsmaAlharrasi&icon=2&color=8)](https://visitcount.itsvg.in)
+## 📑 My Resume
+Check out [my Resume](https://drive.google.com/file/d/10U9GnPE-KsxpPMUUO5Fj0eAAy5qPQjEU/view?usp=sharing&style=flat-square&logo=Gmail&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-alharassi-71a955251/) ![Gmail Badge](https://img.shields.io/badge/-asmaalharrasi18-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asmaalharrasi18@gmail.com) [![Profile Views](https://visitcount.itsvg.in/api?id=AsmaAlharrasi&icon=2&color=8)](https://visitcount.itsvg.in)
 
 ## 💻Technologies I Use:
 <img src = 'https://github.com/123usef/123usef/blob/main/images/NET_Core_Logo.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/bootstrap.svg' width='33'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' width='30'/>  <img src='https://angular.io/assets/images/logos/angular/angular.svg' width='30'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' width='30'/>
@@ -40,7 +43,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 😂 Programmer Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 100 px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 50 px;"/>
 
 ---
 
