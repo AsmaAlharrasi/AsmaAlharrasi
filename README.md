@@ -24,15 +24,15 @@ Check out [my Resume](https://drive.google.com/file/d/10U9GnPE-KsxpPMUUO5Fj0eAAy
 ![Gmail Badge](https://img.shields.io/badge/-asmaalharrasi18-c14438?logo=Gmail&logoColor=white&link=mailto:asmaalharrasi18@gmail.com)<br/>
 [![](https://visitcount.itsvg.in/api?id=AsmaAlharrasi&icon=2&color=8)](https://visitcount.itsvg.in)
 
-## 💻Technologies I Use:
+## Technologies I Use:
 <img src = 'https://github.com/123usef/123usef/blob/main/images/NET_Core_Logo.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/bootstrap.svg' width='33'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' width='30'/>  <img src='https://angular.io/assets/images/logos/angular/angular.svg' width='30'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' width='30'/>
 
 
-## 💻 Programming Languages:
+## Programming Languages:
 
 <img src = 'https://github.com/123usef/123usef/blob/main/images/html.svg' width='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/css.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='30'/>   <img src = 'https://github.com/123usef/123usef/blob/main/images/php.svg' width='40'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/c--4.svg' width='30'/> 
 
-## 💟Design:
+## Design:
 <img src='https://www.vectorlogo.zone/logos/figma/figma-icon.svg' width='30' /> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTDT09uCC1jnMacaY_1d9uosDTzmlJsuebEN57CC6rQ&s' width='30' /> 
  
 <br/> 
@@ -44,15 +44,9 @@ Check out [my Resume](https://drive.google.com/file/d/10U9GnPE-KsxpPMUUO5Fj0eAAy
 ![](https://github-readme-stats.vercel.app/api?username=AsmaAlharrasi&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaAlharrasi&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AsmaAlharrasi&theme=gruvbox&hide_border=true) -->
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
 ### 😂 Programmer Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 50 px; width: 50 px;"/>
 
----
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
