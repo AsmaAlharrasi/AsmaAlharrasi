@@ -21,7 +21,7 @@
 Check out [my Resume](https://drive.google.com/file/d/10U9GnPE-KsxpPMUUO5Fj0eAAy5qPQjEU/view?usp=sharing)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-alharassi-71a955251/)<br/> 
-[![Gmail Badge](https://img.shields.io/badge/-asmaalharrasi18-c14438?logo=Gmail&logoColor=white&link=mailto:)](asmaalharrasi18@gmail.com)<br/>
+[![Gmail Badge](https://img.shields.io/badge/-asmaalharrasi18-c14438?logo=Gmail&logoColor=white&link=mailto)](asmaalharrasi18@gmail.com)<br/>
 [![](https://visitcount.itsvg.in/api?id=AsmaAlharrasi&icon=2&color=8)](https://visitcount.itsvg.in)
 
 ## Technologies I Use:
